@@ -4,7 +4,6 @@ I'm an aspiring Cybersecurity Analyst with a passion for blue teaming, threat de
 
 ### 🚀 Current Focus
 - Cybersecurity Labs on CyberDefenders, TryHackMe, and Hack The Box
-- Projects like **Deploying a Honeypot in Azure** and **Building a SOC with Microsoft Sentinel**
 - Google Cybersecurity Certificate (Completed ✅)
 - Learning Python for automation and scripting
 - sec+ - soon
