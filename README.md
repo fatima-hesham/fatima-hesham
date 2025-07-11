@@ -9,16 +9,6 @@ I'm an aspiring Cybersecurity Analyst with a passion for blue teaming, threat de
 - Learning Python for automation and scripting
 - sec+ - soon
 
-### 🛠️ Projects
-- 👨‍💻 [SOC & Honeypot in Azure](https://github.com/yourusername/soc-honeypot-azure)  
-  Deployed a honeynet in Azure and connected it to Microsoft Sentinel for log monitoring and alerting.
-  
-- 🧪 [Incident Response Labs](https://github.com/yourusername/incident-response-labs)  
-  Solved real-world cases from CyberDefenders involving log analysis, MITRE ATT&CK mapping, and malware triage.
-
-- 🌐 [My Cybersecurity Blog](https://yourwebsite.com)  
-  Writing about what I learn in cybersecurity — phishing, SIEM, log analysis, and more.
-
 ### 📫 Let’s Connect
 - LinkedIn: [www.linkedin.com/in/fatima-hesham-452315349]
 - Website: [yourwebsite.com](https://yourwebsite.com)
