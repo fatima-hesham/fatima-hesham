@@ -10,6 +10,5 @@ I'm an aspiring Cybersecurity Analyst with a passion for blue teaming, threat de
 
 ### 📫 Let’s Connect
 - LinkedIn: [www.linkedin.com/in/fatima-hesham-452315349]
-- Website: [yourwebsite.com](https://yourwebsite.com)
 - Email: 1fatima.heshma1@gmail.com
 
