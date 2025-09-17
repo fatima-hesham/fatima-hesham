@@ -1,6 +1,6 @@
 # 👋 Hey, I’m fatima
 
-I'm an aspiring Cybersecurity Analyst with a passion for blue teaming, threat detection, and SOC operations. I'm currently building my skills through hands-on labs, projects, and certifications.
+an aspiring Cybersecurity Analyst with a passion for blue teaming, threat detection, and SOC operations. I'm currently building my skills through hands-on labs, projects, and certifications.
 
 ### 🚀 Current Focus
 - Cybersecurity Labs on let's defend, TryHackMe, and Hack The Box
