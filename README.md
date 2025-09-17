@@ -6,7 +6,7 @@ I'm an aspiring Cybersecurity Analyst with a passion for blue teaming, threat de
 - Cybersecurity Labs on CyberDefenders, TryHackMe, and Hack The Box
 - Google Cybersecurity Certificate (Completed ✅)
 - Learning Python for automation and scripting
-- sec+ - soon
+- comptia security+ certified 
 
 ### 📫 Let’s Connect
 - LinkedIn: [www.linkedin.com/in/fatima-hesham-452315349]
